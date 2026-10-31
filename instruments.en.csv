@@ -1,0 +1,314 @@
+id,market,name,exchange,timezone,bar_sizes,note
+CN000333,China A-shares,"Midea Group Co., Ltd.",SZSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN000651,China A-shares,"Gree Electric Appliances, Inc. of Zhuhai",SZSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN000858,China A-shares,"Wuliangye Yibin Co., Ltd.",SZSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN002415,China A-shares,"Hangzhou Hikvision Digital Technology Co., Ltd.",SZSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN002594,China A-shares,BYD Company Limited,SZSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN300750,China A-shares,"Contemporary Amperex Technology Co., Ltd.",SZSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN600030,China A-shares,Citic Securities Company Limited,SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN600036,China A-shares,"China Merchants Bank Co., Ltd.",SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN600276,China A-shares,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.",SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN600519,China A-shares,"Kweichow Moutai Co., Ltd.",SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN600900,China A-shares,"China Yangtze Power Co., Ltd.",SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN601088,China A-shares,China Shenhua Energy Company Limited,SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN601166,China A-shares,"Industrial Bank Co., Ltd.",SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN601318,China A-shares,"Ping An Insurance (Group) Company of China, Ltd.",SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN601398,China A-shares,Industrial and Commercial Bank of China Limited,SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CN601857,China A-shares,PetroChina Company Limited,SSE,Asia/Shanghai,1d;4h;1h,"Unadjusted prices: daily from Tencent, intraday from Sina"
+CNS_000001,China A-shares,"Ping An Bank Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000002,China A-shares,"China Vanke Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000063,China A-shares,ZTE Corporation,SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000100,China A-shares,TCL Technology Group Corporation,SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000157,China A-shares,"Zoomlion Heavy Industry Science and Technology Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000333,China A-shares,"Midea Group Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000338,China A-shares,"Weichai Power Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000425,China A-shares,"XCMG Construction Machinery Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000538,China A-shares,"Yunnan Baiyao Group Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000568,China A-shares,"Luzhou Laojiao Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000625,China A-shares,"Chongqing Changan Automobile Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000651,China A-shares,"Gree Electric Appliances, Inc. of Zhuhai",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000725,China A-shares,"BOE Technology Group Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000768,China A-shares,AVIC Xi'an Aircraft Industry Group Company Ltd.,SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000776,China A-shares,"GF Securities Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000792,China A-shares,"Qinghai Yanhu Industry Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000858,China A-shares,"Wuliangye Yibin Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000876,China A-shares,"New Hope Liuhe Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_000895,China A-shares,"Henan Shuanghui Investment & Development Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002027,China A-shares,"Focus Media Information Technology Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002142,China A-shares,"Bank of Ningbo Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002230,China A-shares,"iFLYTEK Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002304,China A-shares,"Jiangsu Yanghe Distillery Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002352,China A-shares,"S.F. Holding Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002371,China A-shares,"NAURA Technology Group Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002415,China A-shares,"Hangzhou Hikvision Digital Technology Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002460,China A-shares,"Ganfeng Lithium Group Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002466,China A-shares,Tianqi Lithium Corporation,SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002475,China A-shares,"Luxshare Precision Industry Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002594,China A-shares,BYD Company Limited,SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_002714,China A-shares,"Muyuan Foods Group Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_300014,China A-shares,"EVE Energy Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_300015,China A-shares,"Aier Eye Hospital Group Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_300059,China A-shares,"East Money Information Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_300122,China A-shares,"Chongqing Zhifei Biological Products Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_300124,China A-shares,"Shenzhen Inovance Technology Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_300274,China A-shares,"Sungrow Power Supply Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_300750,China A-shares,"Contemporary Amperex Technology Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_300760,China A-shares,"Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",SZSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600000,China A-shares,"Shanghai Pudong Development Bank Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600016,China A-shares,"China Minsheng Banking Corp., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600019,China A-shares,"Baoshan Iron & Steel Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600028,China A-shares,China Petroleum & Chemical Corporation,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600030,China A-shares,Citic Securities Company Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600031,China A-shares,"SANY Heavy Industry Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600036,China A-shares,"China Merchants Bank Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600048,China A-shares,"Poly Developments and Holdings Group Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600050,China A-shares,China United Network Communications Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600104,China A-shares,SAIC Motor Corporation Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600111,China A-shares,"China Northern Rare Earth (Group) High-Tech Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600188,China A-shares,Yankuang Energy Group Company Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600276,China A-shares,"Jiangsu Hengrui Pharmaceuticals Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600309,China A-shares,"Wanhua Chemical Group Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600406,China A-shares,"NARI Technology Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600436,China A-shares,"Zhangzhou Pientzehuang Pharmaceutical Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600438,China A-shares,"Tongwei Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600519,China A-shares,"Kweichow Moutai Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600547,China A-shares,"Shandong Gold Mining Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600570,China A-shares,Hundsun Technologies Inc.,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600585,China A-shares,Anhui Conch Cement Company Limited.,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600588,China A-shares,"Yonyou Network Technology Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600690,China A-shares,"Haier Smart Home Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600703,China A-shares,"Sanan Optoelectronics Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600809,China A-shares,"Shanxi Xinghuacun Fen Wine Factory Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600887,China A-shares,"Inner Mongolia Yili Industrial Group Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600893,China A-shares,"AECC Aviation Power Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_600900,China A-shares,"China Yangtze Power Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601006,China A-shares,"Daqin Railway Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601012,China A-shares,"LONGi Green Energy Technology Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601088,China A-shares,China Shenhua Energy Company Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601111,China A-shares,Air China Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601166,China A-shares,"Industrial Bank Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601186,China A-shares,China Railway Construction Corporation Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601211,China A-shares,"Guotai Haitong Securities Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601225,China A-shares,Shaanxi Coal Industry Company Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601288,China A-shares,Agricultural Bank of China Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601318,China A-shares,"Ping An Insurance (Group) Company of China, Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601328,China A-shares,"Bank of Communications Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601390,China A-shares,China Railway Group Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601398,China A-shares,Industrial and Commercial Bank of China Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601600,China A-shares,Aluminum Corporation of China Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601601,China A-shares,"China Pacific Insurance (Group) Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601628,China A-shares,China Life Insurance Company Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601633,China A-shares,Great Wall Motor Company Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601668,China A-shares,China State Construction Engineering Corporation Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601688,China A-shares,"Huatai Securities Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601766,China A-shares,CRRC Corporation Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601800,China A-shares,China Communications Construction Company Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601857,China A-shares,PetroChina Company Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601888,China A-shares,China Tourism Group Duty Free Corporation Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601899,China A-shares,Zijin Mining Group Company Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601919,China A-shares,"COSCO SHIPPING Holdings Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_601988,China A-shares,Bank of China Limited,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_603259,China A-shares,"WuXi AppTec Co., Ltd.",SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNS_603288,China A-shares,Foshan Haitian Flavouring and Food Company Ltd.,SSE,Asia/Shanghai,1d,Daily prices are back-adjusted (BaoStock)
+CNF_A,China futures,No.1 Soybean main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_AG,China futures,Silver main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_AL,China futures,Aluminium main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_AO,China futures,Alumina main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_AP,China futures,Apple main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_AU,China futures,Gold main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_B,China futures,No.2 Soybean main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_BC,China futures,International Copper (BC) main continuous,INE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_BR,China futures,Butadiene Rubber main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_BU,China futures,Bitumen main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_C,China futures,Corn main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_CF,China futures,Cotton main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_CS,China futures,Corn Starch main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_CU,China futures,Copper main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_EB,China futures,Styrene main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_EC,China futures,Container Freight Index (Europe) main continuous,INE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_EG,China futures,Ethylene Glycol main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_FG,China futures,Glass main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_FU,China futures,Fuel Oil main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_HC,China futures,Hot-rolled Coil main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_I,China futures,Iron Ore main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_IC,China futures,CSI 500 Index Futures main continuous,CFFEX,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_IF,China futures,CSI 300 Index Futures main continuous,CFFEX,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_IH,China futures,SSE 50 Index Futures main continuous,CFFEX,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_IM,China futures,CSI 1000 Index Futures main continuous,CFFEX,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_J,China futures,Coke main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_JD,China futures,Egg main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_JM,China futures,Coking Coal main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_L,China futures,Linear Low-Density Polyethylene (LLDPE) main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_LH,China futures,Live Hog main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_LU,China futures,Low Sulfur Fuel Oil main continuous,INE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_M,China futures,Soybean Meal main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_MA,China futures,Methanol main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_NI,China futures,Nickel main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_NR,China futures,TSR 20 Rubber main continuous,INE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_OI,China futures,Rapeseed Oil main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_P,China futures,Palm Olein main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_PB,China futures,Lead main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_PF,China futures,Polyester Staple Fiber main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_PG,China futures,Liquefied Petroleum Gas (LPG) main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_PP,China futures,Polypropylene main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_RB,China futures,Steel Rebar main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_RM,China futures,Rapeseed Meal main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_RU,China futures,Natural Rubber main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_SA,China futures,Soda Ash main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_SC,China futures,Crude Oil main continuous,INE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_SF,China futures,Ferrosilicon main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_SH,China futures,Caustic Soda main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_SM,China futures,Silicomanganese main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_SN,China futures,Tin main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_SP,China futures,Bleached Softwood Kraft Pulp main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_SR,China futures,White Sugar main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_SS,China futures,Stainless Steel main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_T,China futures,10-Year China Treasury Bond Futures main continuous,CFFEX,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_TA,China futures,Purified Terephthalic Acid (PTA) main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_TF,China futures,5-Year China Treasury Bond Futures main continuous,CFFEX,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_TL,China futures,30-Year China Treasury Bond Futures main continuous,CFFEX,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_TS,China futures,2-Year China Treasury Bond Futures main continuous,CFFEX,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_UR,China futures,Urea main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_V,China futures,Polyvinyl Chloride (PVC) main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_Y,China futures,Soybean Oil main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CNF_ZN,China futures,Zinc main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
+CN_AG,China futures,Silver continuous (Sina AG0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_AL,China futures,Aluminium continuous (Sina AL0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_AU,China futures,Gold continuous (Sina AU0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_C,China futures,Corn continuous (Sina C0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_CF,China futures,Cotton continuous (Sina CF0),CZCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_CU,China futures,Copper continuous (Sina CU0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_I,China futures,Iron Ore continuous (Sina I0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_M,China futures,Soybean Meal continuous (Sina M0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_P,China futures,Palm Olein continuous (Sina P0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_RB,China futures,Steel Rebar continuous (Sina RB0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_RU,China futures,Natural Rubber continuous (Sina RU0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_SR,China futures,White Sugar continuous (Sina SR0),CZCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_TA,China futures,Purified Terephthalic Acid (PTA) continuous (Sina TA0),CZCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_Y,China futures,Soybean Oil continuous (Sina Y0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_ZN,China futures,Zinc continuous (Sina ZN0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+IDX_A50,Indices,FTSE China A50 Index (CFD),Dukascopy,Asia/Shanghai,15m,15-minute bars of a Dukascopy index CFD
+IDX_HSI,Indices,Hang Seng Index (CFD),Dukascopy,Asia/Hong_Kong,15m,15-minute bars of a Dukascopy index CFD
+SSE,Indices,SSE Composite Index,SSE,Asia/Shanghai,1d,Yahoo 000001.SS daily
+AAPL,US stocks & ETFs,Apple Inc.,NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+AMZN,US stocks & ETFs,"Amazon.com, Inc.",NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+GLD,US stocks & ETFs,SPDR Gold Shares,NYSE Arca,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+GOOGL,US stocks & ETFs,Alphabet Inc. (Class A),NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+JPM,US stocks & ETFs,JPMorgan Chase & Co.,NYSE,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+META,US stocks & ETFs,"Meta Platforms, Inc.",NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+MSFT,US stocks & ETFs,Microsoft Corporation,NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+NVDA,US stocks & ETFs,NVIDIA Corporation,NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+QQQ,US stocks & ETFs,Invesco QQQ Trust,NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+SPY,US stocks & ETFs,SPDR S&P 500 ETF Trust,NYSE Arca,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+TLT,US stocks & ETFs,iShares 20+ Year Treasury Bond ETF,NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+TSLA,US stocks & ETFs,"Tesla, Inc.",NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+US_AAPL,US stocks & ETFs,Apple Inc.,NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_ADBE,US stocks & ETFs,Adobe Inc.,NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_AMD,US stocks & ETFs,"Advanced Micro Devices, Inc.",NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_AMGN,US stocks & ETFs,Amgen Inc.,NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_AMZN,US stocks & ETFs,"Amazon.com, Inc.",NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_AVGO,US stocks & ETFs,Broadcom Inc.,NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_AXP,US stocks & ETFs,American Express Company,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_BA,US stocks & ETFs,The Boeing Company,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_BAC,US stocks & ETFs,Bank of America Corporation,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_C,US stocks & ETFs,Citigroup Inc.,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_CAT,US stocks & ETFs,Caterpillar Inc.,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_COP,US stocks & ETFs,ConocoPhillips,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_COST,US stocks & ETFs,Costco Wholesale Corporation,NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_CRM,US stocks & ETFs,"Salesforce, Inc.",NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_CSCO,US stocks & ETFs,"Cisco Systems, Inc.",NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_CVX,US stocks & ETFs,Chevron Corporation,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_DIS,US stocks & ETFs,The Walt Disney Company,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_F,US stocks & ETFs,Ford Motor Company,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_FCX,US stocks & ETFs,Freeport-McMoRan Inc.,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_GE,US stocks & ETFs,GE Aerospace,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_GILD,US stocks & ETFs,"Gilead Sciences, Inc.",NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_GM,US stocks & ETFs,General Motors Company,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_GOOGL,US stocks & ETFs,Alphabet Inc. (Class A),NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_GS,US stocks & ETFs,"The Goldman Sachs Group, Inc.",NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_HD,US stocks & ETFs,"The Home Depot, Inc.",NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_HON,US stocks & ETFs,Honeywell International Inc.,NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_IBM,US stocks & ETFs,International Business Machines Corporation,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_INTC,US stocks & ETFs,Intel Corporation,NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_JNJ,US stocks & ETFs,Johnson & Johnson,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_JPM,US stocks & ETFs,JPMorgan Chase & Co.,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_KO,US stocks & ETFs,The Coca-Cola Company,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_LMT,US stocks & ETFs,Lockheed Martin Corporation,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_MCD,US stocks & ETFs,McDonald's Corporation,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_META,US stocks & ETFs,"Meta Platforms, Inc.",NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_MMM,US stocks & ETFs,3M Company,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_MRK,US stocks & ETFs,"Merck & Co., Inc.",NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_MS,US stocks & ETFs,Morgan Stanley,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_MSFT,US stocks & ETFs,Microsoft Corporation,NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_MU,US stocks & ETFs,"Micron Technology, Inc.",NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_NEM,US stocks & ETFs,Newmont Corporation,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_NFLX,US stocks & ETFs,"Netflix, Inc.",NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_NKE,US stocks & ETFs,"NIKE, Inc.",NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_NVDA,US stocks & ETFs,NVIDIA Corporation,NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_ORCL,US stocks & ETFs,Oracle Corporation,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_PEP,US stocks & ETFs,"PepsiCo, Inc.",NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_PFE,US stocks & ETFs,Pfizer Inc.,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_PG,US stocks & ETFs,The Procter & Gamble Company,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_QCOM,US stocks & ETFs,QUALCOMM Incorporated,NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_SBUX,US stocks & ETFs,Starbucks Corporation,NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_SLB,US stocks & ETFs,SLB (Schlumberger),NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_T,US stocks & ETFs,AT&T Inc.,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_TSLA,US stocks & ETFs,"Tesla, Inc.",NASDAQ,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_TXN,US stocks & ETFs,Texas Instruments Incorporated,NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_UNH,US stocks & ETFs,UnitedHealth Group Incorporated,NYSE,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_V,US stocks & ETFs,Visa Inc.,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_WFC,US stocks & ETFs,Wells Fargo & Company,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+US_WMT,US stocks & ETFs,Walmart Inc.,NASDAQ,America/New_York,1d,Daily bars are Yahoo total-return adjusted
+US_XOM,US stocks & ETFs,Exxon Mobil Corporation,NYSE,America/New_York,1d;15m,Daily bars are Yahoo total-return adjusted; 15-minute bars are a Dukascopy stock CFD adjusted the same way
+WMT,US stocks & ETFs,Walmart Inc.,NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+XOM,US stocks & ETFs,Exxon Mobil Corporation,NYSE,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
+COPPER_FUT,Global futures,Copper Futures (front-month continuous),COMEX,America/New_York,1d,"Yahoo HG=F front-month continuous contract, no roll adjustment"
+CRUDE_FUT,Global futures,WTI Crude Oil Futures (front-month continuous),NYMEX,America/New_York,1d,"Yahoo CL=F front-month continuous contract, no roll adjustment"
+GOLD_FUT,Global futures,Gold Futures (front-month continuous),COMEX,America/New_York,1d,"Yahoo GC=F front-month continuous contract, no roll adjustment"
+NATGAS_FUT,Global futures,Natural Gas Futures (front-month continuous),NYMEX,America/New_York,1d,"Yahoo NG=F front-month continuous contract, no roll adjustment"
+SILVER_FUT,Global futures,Silver Futures (front-month continuous),COMEX,America/New_York,1d,"Yahoo SI=F front-month continuous contract, no roll adjustment"
+SP500_FUT,Global futures,E-mini S&P 500 Futures (front-month continuous),CME,America/New_York,1d,"Yahoo ES=F front-month continuous contract, no roll adjustment"
+USF_CL,Global futures,WTI Crude Oil Futures,NYMEX,America/New_York,1d,"Daily bars are adjusted prices of USO (United States Oil Fund) used as a proxy, not futures prices"
+USF_DX,Global futures,U.S. Dollar Index Futures,ICE US,America/New_York,1d;15m,"Daily bars are adjusted prices of UUP (Invesco DB US Dollar Index Bullish Fund) used as a proxy, not futures prices; 15-minute bars are Dukascopy CFD quotes used as an intraday proxy of the future"
+USF_ES,Global futures,E-mini S&P 500 Futures,CME,America/New_York,1d,"Daily bars are adjusted prices of SPY (SPDR S&P 500 ETF Trust) used as a proxy, not futures prices"
+USF_GC,Global futures,Gold Futures,COMEX,America/New_York,1d,"Daily bars are adjusted prices of GLD (SPDR Gold Shares) used as a proxy, not futures prices"
+USF_HG,Global futures,Copper Futures,COMEX,America/New_York,1d;15m,"Daily bars are adjusted prices of CPER (United States Copper Index Fund) used as a proxy, not futures prices; 15-minute bars are Dukascopy CFD quotes used as an intraday proxy of the future"
+USF_NG,Global futures,Henry Hub Natural Gas Futures,NYMEX,America/New_York,1d;15m,"Daily bars are adjusted prices of UNG (United States Natural Gas Fund) used as a proxy, not futures prices; 15-minute bars are Dukascopy CFD quotes used as an intraday proxy of the future"
+USF_NQ,Global futures,E-mini Nasdaq-100 Futures,CME,America/New_York,1d,"Daily bars are adjusted prices of QQQ (Invesco QQQ Trust) used as a proxy, not futures prices"
+USF_PA,Global futures,Palladium Futures,NYMEX,America/New_York,1d,"Daily bars are adjusted prices of PALL (abrdn Physical Palladium Shares ETF) used as a proxy, not futures prices"
+USF_PL,Global futures,Platinum Futures,NYMEX,America/New_York,1d,"Daily bars are adjusted prices of PPLT (abrdn Physical Platinum Shares ETF) used as a proxy, not futures prices"
+USF_RB,Global futures,RBOB Gasoline Futures,NYMEX,America/New_York,1d,"Daily bars are adjusted prices of UGA (United States Gasoline Fund) used as a proxy, not futures prices"
+USF_RTY,Global futures,E-mini Russell 2000 Futures,CME,America/New_York,1d;15m,"Daily bars are adjusted prices of IWM (iShares Russell 2000 ETF) used as a proxy, not futures prices; 15-minute bars are Dukascopy CFD quotes used as an intraday proxy of the future"
+USF_SB,Global futures,Sugar No.11 Futures,ICE US,America/New_York,1d,"Daily bars are adjusted prices of CANE (Teucrium Sugar Fund) used as a proxy, not futures prices"
+USF_SI,Global futures,Silver Futures,COMEX,America/New_York,1d;15m,"Daily bars are adjusted prices of SLV (iShares Silver Trust) used as a proxy, not futures prices; 15-minute bars are Dukascopy CFD quotes used as an intraday proxy of the future"
+USF_UB,Global futures,Ultra U.S. Treasury Bond Futures,CBOT,America/New_York,15m,15-minute bars are Dukascopy CFD quotes used as an intraday proxy of the future
+USF_YM,Global futures,E-mini Dow ($5) Futures,CBOT,America/New_York,1d;15m,"Daily bars are adjusted prices of DIA (SPDR Dow Jones Industrial Average ETF Trust) used as a proxy, not futures prices; 15-minute bars are Dukascopy CFD quotes used as an intraday proxy of the future"
+USF_ZB,Global futures,U.S. Treasury Bond Futures,CBOT,America/New_York,1d,"Daily bars are adjusted prices of TLT (iShares 20+ Year Treasury Bond ETF) used as a proxy, not futures prices"
+USF_ZC,Global futures,Corn Futures,CBOT,America/New_York,1d,"Daily bars are adjusted prices of CORN (Teucrium Corn Fund) used as a proxy, not futures prices"
+USF_ZN,Global futures,10-Year U.S. Treasury Note Futures,CBOT,America/New_York,1d,"Daily bars are adjusted prices of IEF (iShares 7-10 Year Treasury Bond ETF) used as a proxy, not futures prices"
+USF_ZS,Global futures,Soybean Futures,CBOT,America/New_York,1d,"Daily bars are adjusted prices of SOYB (Teucrium Soybean Fund) used as a proxy, not futures prices"
+USF_ZW,Global futures,Chicago SRW Wheat Futures,CBOT,America/New_York,1d,"Daily bars are adjusted prices of WEAT (Teucrium Wheat Fund) used as a proxy, not futures prices"
+ADAUSDT,Crypto,Cardano / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
+ATOMUSDT,Crypto,Cosmos / Tether (USDT),Binance,UTC,1d,Binance spot pair
+AVAXUSDT,Crypto,Avalanche / Tether (USDT),Binance,UTC,1d,Binance spot pair
+BCHUSDT,Crypto,Bitcoin Cash / Tether (USDT),Binance,UTC,1d,Binance spot pair
+BNBUSDT,Crypto,BNB / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
+BTC-USD,Crypto,Bitcoin / US Dollar,Yahoo Finance,UTC,1d,Yahoo BTC-USD daily
+BTCUSDT,Crypto,Bitcoin / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
+DOGEUSDT,Crypto,Dogecoin / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
+DOTUSDT,Crypto,Polkadot / Tether (USDT),Binance,UTC,1d,Binance spot pair
+ETHUSDT,Crypto,Ethereum / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
+LINKUSDT,Crypto,Chainlink / Tether (USDT),Binance,UTC,1d,Binance spot pair
+LTCUSDT,Crypto,Litecoin / Tether (USDT),Binance,UTC,1d,Binance spot pair
+NEARUSDT,Crypto,NEAR Protocol / Tether (USDT),Binance,UTC,1d,Binance spot pair
+SOLUSDT,Crypto,Solana / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
+UNIUSDT,Crypto,Uniswap / Tether (USDT),Binance,UTC,1d,Binance spot pair
+XRPUSDT,Crypto,XRP / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
+AUDUSD,Forex,Australian Dollar / US Dollar,OTC,Europe/London,1d,"Yahoo FX quotes, no volume"
+EURJPY,Forex,Euro / Japanese Yen,OTC,Europe/London,1d,"Yahoo FX quotes, no volume"
+EURUSD,Forex,Euro / US Dollar,OTC,Europe/London,1d,"Yahoo FX quotes, no volume"
+GBPUSD,Forex,British Pound / US Dollar,OTC,Europe/London,1d,"Yahoo FX quotes, no volume"
+NZDUSD,Forex,New Zealand Dollar / US Dollar,OTC,Europe/London,1d,"Yahoo FX quotes, no volume"
+USDCAD,Forex,US Dollar / Canadian Dollar,OTC,Europe/London,1d,"Yahoo FX quotes, no volume"
+USDCHF,Forex,US Dollar / Swiss Franc,OTC,Europe/London,1d,"Yahoo FX quotes, no volume"
+USDJPY,Forex,US Dollar / Japanese Yen,OTC,Europe/London,1d,"Yahoo FX quotes, no volume"

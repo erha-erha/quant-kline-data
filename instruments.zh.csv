@@ -1,0 +1,314 @@
+﻿代码,市场,名称,交易所,时区,周期,备注
+CN000333,A股,美的集团,深交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN000651,A股,格力电器,深交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN000858,A股,五粮液,深交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN002415,A股,海康威视,深交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN002594,A股,比亚迪,深交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN300750,A股,宁德时代,深交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN600030,A股,中信证券,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN600036,A股,招商银行,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN600276,A股,恒瑞医药,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN600519,A股,贵州茅台,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN600900,A股,长江电力,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN601088,A股,中国神华,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN601166,A股,兴业银行,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN601318,A股,中国平安,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN601398,A股,工商银行,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CN601857,A股,中国石油,上交所,Asia/Shanghai,1d;4h;1h,不复权价格：日线来自腾讯，小时线来自新浪
+CNS_000001,A股,平安银行,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000002,A股,万科A,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000063,A股,中兴通讯,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000100,A股,TCL科技,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000157,A股,中联重科,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000333,A股,美的集团,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000338,A股,潍柴动力,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000425,A股,徐工机械,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000538,A股,云南白药,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000568,A股,泸州老窖,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000625,A股,长安汽车,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000651,A股,格力电器,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000725,A股,京东方A,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000768,A股,中航西飞,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000776,A股,广发证券,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000792,A股,盐湖股份,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000858,A股,五粮液,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000876,A股,新希望,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_000895,A股,双汇发展,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002027,A股,分众传媒,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002142,A股,宁波银行,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002230,A股,科大讯飞,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002304,A股,洋河股份,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002352,A股,顺丰控股,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002371,A股,北方华创,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002415,A股,海康威视,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002460,A股,赣锋锂业,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002466,A股,天齐锂业,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002475,A股,立讯精密,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002594,A股,比亚迪,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_002714,A股,牧原股份,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_300014,A股,亿纬锂能,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_300015,A股,爱尔眼科,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_300059,A股,东方财富,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_300122,A股,智飞生物,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_300124,A股,汇川技术,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_300274,A股,阳光电源,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_300750,A股,宁德时代,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_300760,A股,迈瑞医疗,深交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600000,A股,浦发银行,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600016,A股,民生银行,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600019,A股,宝钢股份,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600028,A股,中国石化,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600030,A股,中信证券,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600031,A股,三一重工,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600036,A股,招商银行,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600048,A股,保利发展,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600050,A股,中国联通,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600104,A股,上汽集团,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600111,A股,北方稀土,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600188,A股,兖矿能源,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600276,A股,恒瑞医药,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600309,A股,万华化学,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600406,A股,国电南瑞,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600436,A股,片仔癀,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600438,A股,通威股份,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600519,A股,贵州茅台,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600547,A股,山东黄金,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600570,A股,恒生电子,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600585,A股,海螺水泥,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600588,A股,用友网络,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600690,A股,海尔智家,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600703,A股,三安光电,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600809,A股,山西汾酒,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600887,A股,伊利股份,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600893,A股,航发动力,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_600900,A股,长江电力,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601006,A股,大秦铁路,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601012,A股,隆基绿能,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601088,A股,中国神华,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601111,A股,中国国航,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601166,A股,兴业银行,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601186,A股,中国铁建,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601211,A股,国泰海通,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601225,A股,陕西煤业,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601288,A股,农业银行,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601318,A股,中国平安,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601328,A股,交通银行,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601390,A股,中国中铁,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601398,A股,工商银行,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601600,A股,中国铝业,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601601,A股,中国太保,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601628,A股,中国人寿,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601633,A股,长城汽车,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601668,A股,中国建筑,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601688,A股,华泰证券,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601766,A股,中国中车,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601800,A股,中国交建,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601857,A股,中国石油,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601888,A股,中国中免,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601899,A股,紫金矿业,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601919,A股,中远海控,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_601988,A股,中国银行,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_603259,A股,药明康德,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNS_603288,A股,海天味业,上交所,Asia/Shanghai,1d,日线为后复权价格（BaoStock）
+CNF_A,国内期货,黄大豆1号主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_AG,国内期货,白银主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_AL,国内期货,铝主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_AO,国内期货,氧化铝主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_AP,国内期货,苹果主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_AU,国内期货,黄金主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_B,国内期货,黄大豆2号主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_BC,国内期货,国际铜主力连续,上海国际能源交易中心,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_BR,国内期货,丁二烯橡胶主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_BU,国内期货,石油沥青主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_C,国内期货,玉米主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_CF,国内期货,棉花主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_CS,国内期货,玉米淀粉主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_CU,国内期货,铜主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_EB,国内期货,苯乙烯主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_EC,国内期货,集运指数（欧线）主力连续,上海国际能源交易中心,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_EG,国内期货,乙二醇主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_FG,国内期货,玻璃主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_FU,国内期货,燃料油主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_HC,国内期货,热轧卷板主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_I,国内期货,铁矿石主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_IC,国内期货,中证500股指期货主力连续,中金所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_IF,国内期货,沪深300股指期货主力连续,中金所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_IH,国内期货,上证50股指期货主力连续,中金所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_IM,国内期货,中证1000股指期货主力连续,中金所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_J,国内期货,焦炭主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_JD,国内期货,鸡蛋主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_JM,国内期货,焦煤主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_L,国内期货,聚乙烯主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_LH,国内期货,生猪主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_LU,国内期货,低硫燃料油主力连续,上海国际能源交易中心,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_M,国内期货,豆粕主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_MA,国内期货,甲醇主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_NI,国内期货,镍主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_NR,国内期货,20号胶主力连续,上海国际能源交易中心,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_OI,国内期货,菜籽油主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_P,国内期货,棕榈油主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_PB,国内期货,铅主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_PF,国内期货,短纤主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_PG,国内期货,液化石油气主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_PP,国内期货,聚丙烯主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_RB,国内期货,螺纹钢主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_RM,国内期货,菜籽粕主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_RU,国内期货,天然橡胶主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_SA,国内期货,纯碱主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_SC,国内期货,原油主力连续,上海国际能源交易中心,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_SF,国内期货,硅铁主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_SH,国内期货,烧碱主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_SM,国内期货,锰硅主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_SN,国内期货,锡主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_SP,国内期货,纸浆主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_SR,国内期货,白糖主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_SS,国内期货,不锈钢主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_T,国内期货,10年期国债期货主力连续,中金所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_TA,国内期货,PTA（精对苯二甲酸）主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_TF,国内期货,5年期国债期货主力连续,中金所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_TL,国内期货,30年期国债期货主力连续,中金所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_TS,国内期货,2年期国债期货主力连续,中金所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_UR,国内期货,尿素主力连续,郑商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_V,国内期货,聚氯乙烯主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_Y,国内期货,豆油主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CNF_ZN,国内期货,锌主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
+CN_AG,国内期货,白银连续（新浪AG0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_AL,国内期货,铝连续（新浪AL0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_AU,国内期货,黄金连续（新浪AU0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_C,国内期货,玉米连续（新浪C0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_CF,国内期货,棉花连续（新浪CF0）,郑商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_CU,国内期货,铜连续（新浪CU0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_I,国内期货,铁矿石连续（新浪I0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_M,国内期货,豆粕连续（新浪M0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_P,国内期货,棕榈油连续（新浪P0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_RB,国内期货,螺纹钢连续（新浪RB0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_RU,国内期货,天然橡胶连续（新浪RU0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_SR,国内期货,白糖连续（新浪SR0）,郑商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_TA,国内期货,PTA（精对苯二甲酸）连续（新浪TA0）,郑商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_Y,国内期货,豆油连续（新浪Y0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_ZN,国内期货,锌连续（新浪ZN0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+IDX_A50,指数,富时中国A50指数（差价合约）,杜高斯贝,Asia/Shanghai,15m,Dukascopy 指数 差价合约的15分钟线
+IDX_HSI,指数,恒生指数（差价合约）,杜高斯贝,Asia/Hong_Kong,15m,Dukascopy 指数 差价合约的15分钟线
+SSE,指数,上证综合指数,上交所,Asia/Shanghai,1d,Yahoo 000001.SS 日线
+AAPL,美股,苹果,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+AMZN,美股,亚马逊,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+GLD,美股,道富黄金ETF,纽交所Arca,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+GOOGL,美股,谷歌（A类股）,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+JPM,美股,摩根大通,纽交所,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+META,美股,元平台（脸书母公司）,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+MSFT,美股,微软,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+NVDA,美股,英伟达,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+QQQ,美股,景顺纳斯达克100ETF,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+SPY,美股,道富标普500ETF,纽交所Arca,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+TLT,美股,安硕20年期以上美国国债ETF,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+TSLA,美股,特斯拉,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+US_AAPL,美股,苹果,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_ADBE,美股,奥多比,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_AMD,美股,超威半导体,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_AMGN,美股,安进,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_AMZN,美股,亚马逊,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_AVGO,美股,博通,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_AXP,美股,美国运通,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_BA,美股,波音,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_BAC,美股,美国银行,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_C,美股,花旗集团,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_CAT,美股,卡特彼勒,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_COP,美股,康菲石油,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_COST,美股,好市多,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_CRM,美股,赛富时,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_CSCO,美股,思科,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_CVX,美股,雪佛龙,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_DIS,美股,迪士尼,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_F,美股,福特汽车,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_FCX,美股,自由港麦克莫兰,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_GE,美股,通用电气航空航天,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_GILD,美股,吉利德科学,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_GM,美股,通用汽车,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_GOOGL,美股,谷歌（A类股）,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_GS,美股,高盛,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_HD,美股,家得宝,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_HON,美股,霍尼韦尔,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_IBM,美股,国际商业机器,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_INTC,美股,英特尔,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_JNJ,美股,强生,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_JPM,美股,摩根大通,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_KO,美股,可口可乐,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_LMT,美股,洛克希德马丁,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_MCD,美股,麦当劳,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_META,美股,元平台（脸书母公司）,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_MMM,美股,3M公司,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_MRK,美股,默沙东,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_MS,美股,摩根士丹利,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_MSFT,美股,微软,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_MU,美股,美光科技,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_NEM,美股,纽曼矿业,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_NFLX,美股,奈飞,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_NKE,美股,耐克,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_NVDA,美股,英伟达,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_ORCL,美股,甲骨文,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_PEP,美股,百事,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_PFE,美股,辉瑞,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_PG,美股,宝洁,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_QCOM,美股,高通,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_SBUX,美股,星巴克,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_SLB,美股,斯伦贝谢,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_T,美股,美国电话电报,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_TSLA,美股,特斯拉,纳斯达克,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_TXN,美股,德州仪器,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_UNH,美股,联合健康,纽交所,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_V,美股,维萨,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_WFC,美股,富国银行,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+US_WMT,美股,沃尔玛,纳斯达克,America/New_York,1d,日线为 Yahoo 复权价（总回报）
+US_XOM,美股,埃克森美孚,纽交所,America/New_York,1d;15m,日线为 Yahoo 复权价（总回报）；15分钟线为 Dukascopy 股票差价合约，按同一方法复权
+WMT,美股,沃尔玛,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+XOM,美股,埃克森美孚,纽交所,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
+COPPER_FUT,海外期货,铜期货（近月连续）,纽约金属交易所,America/New_York,1d,Yahoo HG=F 近月连续合约，换月不调整
+CRUDE_FUT,海外期货,WTI原油期货（近月连续）,纽约商品交易所,America/New_York,1d,Yahoo CL=F 近月连续合约，换月不调整
+GOLD_FUT,海外期货,黄金期货（近月连续）,纽约金属交易所,America/New_York,1d,Yahoo GC=F 近月连续合约，换月不调整
+NATGAS_FUT,海外期货,天然气期货（近月连续）,纽约商品交易所,America/New_York,1d,Yahoo NG=F 近月连续合约，换月不调整
+SILVER_FUT,海外期货,白银期货（近月连续）,纽约金属交易所,America/New_York,1d,Yahoo SI=F 近月连续合约，换月不调整
+SP500_FUT,海外期货,标普500指数期货（近月连续）,芝加哥商品交易所,America/New_York,1d,Yahoo ES=F 近月连续合约，换月不调整
+USF_CL,海外期货,WTI原油期货,纽约商品交易所,America/New_York,1d,日线是 USO（美国原油基金）的复权价格，作为期货代理，不是期货价格
+USF_DX,海外期货,美元指数期货,美国洲际交易所,America/New_York,1d;15m,日线是 UUP（景顺美元指数看涨ETF）的复权价格，作为期货代理，不是期货价格；15分钟线为 Dukascopy 差价合约报价，作为期货的日内代理
+USF_ES,海外期货,标普500指数期货,芝加哥商品交易所,America/New_York,1d,日线是 SPY（道富标普500ETF）的复权价格，作为期货代理，不是期货价格
+USF_GC,海外期货,黄金期货,纽约金属交易所,America/New_York,1d,日线是 GLD（道富黄金ETF）的复权价格，作为期货代理，不是期货价格
+USF_HG,海外期货,铜期货,纽约金属交易所,America/New_York,1d;15m,日线是 CPER（美国铜指数基金）的复权价格，作为期货代理，不是期货价格；15分钟线为 Dukascopy 差价合约报价，作为期货的日内代理
+USF_NG,海外期货,天然气期货,纽约商品交易所,America/New_York,1d;15m,日线是 UNG（美国天然气基金）的复权价格，作为期货代理，不是期货价格；15分钟线为 Dukascopy 差价合约报价，作为期货的日内代理
+USF_NQ,海外期货,纳斯达克100指数期货,芝加哥商品交易所,America/New_York,1d,日线是 QQQ（景顺纳斯达克100ETF）的复权价格，作为期货代理，不是期货价格
+USF_PA,海外期货,钯金期货,纽约商品交易所,America/New_York,1d,日线是 PALL（安本实物钯金ETF）的复权价格，作为期货代理，不是期货价格
+USF_PL,海外期货,铂金期货,纽约商品交易所,America/New_York,1d,日线是 PPLT（安本实物铂金ETF）的复权价格，作为期货代理，不是期货价格
+USF_RB,海外期货,RBOB汽油期货,纽约商品交易所,America/New_York,1d,日线是 UGA（美国汽油基金）的复权价格，作为期货代理，不是期货价格
+USF_RTY,海外期货,罗素2000指数期货,芝加哥商品交易所,America/New_York,1d;15m,日线是 IWM（安硕罗素2000ETF）的复权价格，作为期货代理，不是期货价格；15分钟线为 Dukascopy 差价合约报价，作为期货的日内代理
+USF_SB,海外期货,11号原糖期货,美国洲际交易所,America/New_York,1d,日线是 CANE（图克里姆糖基金）的复权价格，作为期货代理，不是期货价格
+USF_SI,海外期货,白银期货,纽约金属交易所,America/New_York,1d;15m,日线是 SLV（安硕白银ETF）的复权价格，作为期货代理，不是期货价格；15分钟线为 Dukascopy 差价合约报价，作为期货的日内代理
+USF_UB,海外期货,超长期美国国债期货,芝加哥期货交易所,America/New_York,15m,15分钟线为 Dukascopy 差价合约报价，作为期货的日内代理
+USF_YM,海外期货,道琼斯指数期货,芝加哥期货交易所,America/New_York,1d;15m,日线是 DIA（道富道琼斯工业平均ETF）的复权价格，作为期货代理，不是期货价格；15分钟线为 Dukascopy 差价合约报价，作为期货的日内代理
+USF_ZB,海外期货,美国30年期国债期货,芝加哥期货交易所,America/New_York,1d,日线是 TLT（安硕20年期以上美国国债ETF）的复权价格，作为期货代理，不是期货价格
+USF_ZC,海外期货,玉米期货,芝加哥期货交易所,America/New_York,1d,日线是 CORN（图克里姆玉米基金）的复权价格，作为期货代理，不是期货价格
+USF_ZN,海外期货,美国10年期国债期货,芝加哥期货交易所,America/New_York,1d,日线是 IEF（安硕7-10年期美国国债ETF）的复权价格，作为期货代理，不是期货价格
+USF_ZS,海外期货,大豆期货,芝加哥期货交易所,America/New_York,1d,日线是 SOYB（图克里姆大豆基金）的复权价格，作为期货代理，不是期货价格
+USF_ZW,海外期货,小麦期货,芝加哥期货交易所,America/New_York,1d,日线是 WEAT（图克里姆小麦基金）的复权价格，作为期货代理，不是期货价格
+ADAUSDT,加密货币,艾达币（卡尔达诺）/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
+ATOMUSDT,加密货币,阿童木/USDT,币安,UTC,1d,Binance 现货交易对
+AVAXUSDT,加密货币,雪崩/USDT,币安,UTC,1d,Binance 现货交易对
+BCHUSDT,加密货币,比特币现金/USDT,币安,UTC,1d,Binance 现货交易对
+BNBUSDT,加密货币,币安币/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
+BTC-USD,加密货币,比特币/美元,雅虎财经,UTC,1d,Yahoo BTC-USD 日线
+BTCUSDT,加密货币,比特币/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
+DOGEUSDT,加密货币,狗狗币/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
+DOTUSDT,加密货币,波卡/USDT,币安,UTC,1d,Binance 现货交易对
+ETHUSDT,加密货币,以太坊/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
+LINKUSDT,加密货币,链环/USDT,币安,UTC,1d,Binance 现货交易对
+LTCUSDT,加密货币,莱特币/USDT,币安,UTC,1d,Binance 现货交易对
+NEARUSDT,加密货币,近协议/USDT,币安,UTC,1d,Binance 现货交易对
+SOLUSDT,加密货币,索拉纳/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
+UNIUSDT,加密货币,优尼/USDT,币安,UTC,1d,Binance 现货交易对
+XRPUSDT,加密货币,瑞波币/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
+AUDUSD,外汇,澳元/美元,场外市场,Europe/London,1d,Yahoo 外汇报价，无成交量
+EURJPY,外汇,欧元/日元,场外市场,Europe/London,1d,Yahoo 外汇报价，无成交量
+EURUSD,外汇,欧元/美元,场外市场,Europe/London,1d,Yahoo 外汇报价，无成交量
+GBPUSD,外汇,英镑/美元,场外市场,Europe/London,1d,Yahoo 外汇报价，无成交量
+NZDUSD,外汇,新西兰元/美元,场外市场,Europe/London,1d,Yahoo 外汇报价，无成交量
+USDCAD,外汇,美元/加元,场外市场,Europe/London,1d,Yahoo 外汇报价，无成交量
+USDCHF,外汇,美元/瑞士法郎,场外市场,Europe/London,1d,Yahoo 外汇报价，无成交量
+USDJPY,外汇,美元/日元,场外市场,Europe/London,1d,Yahoo 外汇报价，无成交量
