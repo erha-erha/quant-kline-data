@@ -172,23 +172,23 @@ CNF_UR,China futures,Urea main continuous,CZCE,Asia/Shanghai,1d,Ratio back-adjus
 CNF_V,China futures,Polyvinyl Chloride (PVC) main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
 CNF_Y,China futures,Soybean Oil main continuous,DCE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
 CNF_ZN,China futures,Zinc main continuous,SHFE,Asia/Shanghai,1d,Ratio back-adjusted main continuous contract built from per-contract exchange data
-CN_AG,China futures,Silver continuous (Sina AG0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_AL,China futures,Aluminium continuous (Sina AL0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_AU,China futures,Gold continuous (Sina AU0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_C,China futures,Corn continuous (Sina C0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_CF,China futures,Cotton continuous (Sina CF0),CZCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_CU,China futures,Copper continuous (Sina CU0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_I,China futures,Iron Ore continuous (Sina I0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_M,China futures,Soybean Meal continuous (Sina M0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_P,China futures,Palm Olein continuous (Sina P0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_RB,China futures,Steel Rebar continuous (Sina RB0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_RU,China futures,Natural Rubber continuous (Sina RU0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_SR,China futures,White Sugar continuous (Sina SR0),CZCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_TA,China futures,Purified Terephthalic Acid (PTA) continuous (Sina TA0),CZCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_Y,China futures,Soybean Oil continuous (Sina Y0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-CN_ZN,China futures,Zinc continuous (Sina ZN0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
-IDX_A50,Indices,FTSE China A50 Index (CFD),Dukascopy,Asia/Shanghai,15m,15-minute bars of a Dukascopy index CFD
-IDX_HSI,Indices,Hang Seng Index (CFD),Dukascopy,Asia/Hong_Kong,15m,15-minute bars of a Dukascopy index CFD
+CN_AG,China futures,Silver continuous (AG0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_AL,China futures,Aluminium continuous (AL0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_AU,China futures,Gold continuous (AU0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_C,China futures,Corn continuous (C0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_CF,China futures,Cotton continuous (CF0),CZCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_CU,China futures,Copper continuous (CU0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_I,China futures,Iron Ore continuous (I0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_M,China futures,Soybean Meal continuous (M0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_P,China futures,Palm Olein continuous (P0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_RB,China futures,Steel Rebar continuous (RB0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_RU,China futures,Natural Rubber continuous (RU0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_SR,China futures,White Sugar continuous (SR0),CZCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_TA,China futures,Purified Terephthalic Acid (PTA) continuous (TA0),CZCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_Y,China futures,Soybean Oil continuous (Y0),DCE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+CN_ZN,China futures,Zinc continuous (ZN0),SHFE,Asia/Shanghai,1d;4h;1h,"Sina continuous contract, unadjusted; daily bars end on 2024-07-17"
+IDX_A50,Indices,FTSE China A50 Index (CFD),OTC,Asia/Shanghai,15m,15-minute bars of a Dukascopy index CFD
+IDX_HSI,Indices,Hang Seng Index (CFD),OTC,Asia/Hong_Kong,15m,15-minute bars of a Dukascopy index CFD
 SSE,Indices,SSE Composite Index,SSE,Asia/Shanghai,1d,Yahoo 000001.SS daily
 AAPL,US stocks & ETFs,Apple Inc.,NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
 AMZN,US stocks & ETFs,"Amazon.com, Inc.",NASDAQ,America/New_York,1d;1h,"Yahoo regular prices (split-adjusted, not dividend-adjusted), with regular-session hourly bars"
@@ -293,7 +293,7 @@ ATOMUSDT,Crypto,Cosmos / Tether (USDT),Binance,UTC,1d,Binance spot pair
 AVAXUSDT,Crypto,Avalanche / Tether (USDT),Binance,UTC,1d,Binance spot pair
 BCHUSDT,Crypto,Bitcoin Cash / Tether (USDT),Binance,UTC,1d,Binance spot pair
 BNBUSDT,Crypto,BNB / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
-BTC-USD,Crypto,Bitcoin / US Dollar,Yahoo Finance,UTC,1d,Yahoo BTC-USD daily
+BTC-USD,Crypto,Bitcoin / US Dollar,OTC,UTC,1d,Yahoo BTC-USD daily
 BTCUSDT,Crypto,Bitcoin / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
 DOGEUSDT,Crypto,Dogecoin / Tether (USDT),Binance,UTC,1d;4h;1h,Binance spot pair
 DOTUSDT,Crypto,Polkadot / Tether (USDT),Binance,UTC,1d,Binance spot pair

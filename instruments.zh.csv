@@ -172,23 +172,23 @@ CNF_UR,国内期货,尿素主力连续,郑商所,Asia/Shanghai,1d,比例后复�
 CNF_V,国内期货,聚氯乙烯主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
 CNF_Y,国内期货,豆油主力连续,大商所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
 CNF_ZN,国内期货,锌主力连续,上期所,Asia/Shanghai,1d,比例后复权的主力连续合约，由交易所逐合约日线拼接
-CN_AG,国内期货,白银连续（新浪AG0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_AL,国内期货,铝连续（新浪AL0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_AU,国内期货,黄金连续（新浪AU0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_C,国内期货,玉米连续（新浪C0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_CF,国内期货,棉花连续（新浪CF0）,郑商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_CU,国内期货,铜连续（新浪CU0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_I,国内期货,铁矿石连续（新浪I0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_M,国内期货,豆粕连续（新浪M0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_P,国内期货,棕榈油连续（新浪P0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_RB,国内期货,螺纹钢连续（新浪RB0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_RU,国内期货,天然橡胶连续（新浪RU0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_SR,国内期货,白糖连续（新浪SR0）,郑商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_TA,国内期货,PTA（精对苯二甲酸）连续（新浪TA0）,郑商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_Y,国内期货,豆油连续（新浪Y0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-CN_ZN,国内期货,锌连续（新浪ZN0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
-IDX_A50,指数,富时中国A50指数（差价合约）,杜高斯贝,Asia/Shanghai,15m,Dukascopy 指数 差价合约的15分钟线
-IDX_HSI,指数,恒生指数（差价合约）,杜高斯贝,Asia/Hong_Kong,15m,Dukascopy 指数 差价合约的15分钟线
+CN_AG,国内期货,白银连续（AG0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_AL,国内期货,铝连续（AL0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_AU,国内期货,黄金连续（AU0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_C,国内期货,玉米连续（C0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_CF,国内期货,棉花连续（CF0）,郑商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_CU,国内期货,铜连续（CU0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_I,国内期货,铁矿石连续（I0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_M,国内期货,豆粕连续（M0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_P,国内期货,棕榈油连续（P0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_RB,国内期货,螺纹钢连续（RB0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_RU,国内期货,天然橡胶连续（RU0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_SR,国内期货,白糖连续（SR0）,郑商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_TA,国内期货,PTA（精对苯二甲酸）连续（TA0）,郑商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_Y,国内期货,豆油连续（Y0）,大商所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+CN_ZN,国内期货,锌连续（ZN0）,上期所,Asia/Shanghai,1d;4h;1h,新浪连续合约，不复权；日线截至 2024-07-17
+IDX_A50,指数,富时中国A50指数（差价合约）,场外市场,Asia/Shanghai,15m,Dukascopy 指数 差价合约的15分钟线
+IDX_HSI,指数,恒生指数（差价合约）,场外市场,Asia/Hong_Kong,15m,Dukascopy 指数 差价合约的15分钟线
 SSE,指数,上证综合指数,上交所,Asia/Shanghai,1d,Yahoo 000001.SS 日线
 AAPL,美股,苹果,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
 AMZN,美股,亚马逊,纳斯达克,America/New_York,1d;1h,Yahoo 原始价格（已按拆股调整，未按分红调整），含常规时段小时线
@@ -293,7 +293,7 @@ ATOMUSDT,加密货币,阿童木/USDT,币安,UTC,1d,Binance 现货交易对
 AVAXUSDT,加密货币,雪崩/USDT,币安,UTC,1d,Binance 现货交易对
 BCHUSDT,加密货币,比特币现金/USDT,币安,UTC,1d,Binance 现货交易对
 BNBUSDT,加密货币,币安币/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
-BTC-USD,加密货币,比特币/美元,雅虎财经,UTC,1d,Yahoo BTC-USD 日线
+BTC-USD,加密货币,比特币/美元,场外市场,UTC,1d,Yahoo BTC-USD 日线
 BTCUSDT,加密货币,比特币/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
 DOGEUSDT,加密货币,狗狗币/USDT,币安,UTC,1d;4h;1h,Binance 现货交易对
 DOTUSDT,加密货币,波卡/USDT,币安,UTC,1d,Binance 现货交易对
